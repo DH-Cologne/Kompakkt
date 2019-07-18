@@ -4,3 +4,6 @@
 [submodule "Kompakkt.Server"]
 	path = Kompakkt.Server
 	url = https://github.com/DH-Cologne/Kompakkt.Server.git
+[submodule "Kompakkt.Repo"]
+	path = Kompakkt.Repo
+	url = https://github.com/DH-Cologne/Kompakkt.Repo.git
