@@ -1,9 +1,12 @@
-[submodule "Kompakkt.Viewer"]
-	path = Kompakkt.Viewer
-	url = https://github.com/DH-Cologne/Kompakkt.Viewer.git
 [submodule "Kompakkt.Server"]
 	path = Kompakkt.Server
-	url = https://github.com/DH-Cologne/Kompakkt.Server.git
+	url = https://www.github.com/DH-Cologne/Kompakkt.Server
+	branch = master
 [submodule "Kompakkt.Repo"]
 	path = Kompakkt.Repo
-	url = https://github.com/DH-Cologne/Kompakkt.Repo.git
+	url = https://www.github.com/DH-Cologne/Kompakkt.Repo
+	branch = master
+[submodule "Kompakkt.Viewer"]
+	path = Kompakkt.Viewer
+	url = https://www.github.com/DH-Cologne/Kompakkt.Viewer
+	branch = master
